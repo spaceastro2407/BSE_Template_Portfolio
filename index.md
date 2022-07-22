@@ -30,12 +30,13 @@ Here is the project with the various modifications!
  [![Demo](https://res.cloudinary.com/marcomontalbano/image/upload/v1658498822/video_to_markdown/images/youtube--3Tt4ewW0Ets-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/3Tt4ewW0Ets "Demo")
   
 # Final Milestone
-My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint. 
+My final milestone was to try connecting the Arm through 
 
 [![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1658442585/video_to_markdown/images/youtube--dyGJrXaJGBc-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=dyGJrXaJGBc&feature=youtu.be "Final Milestone")
 
 # Second Milestone
 My second milestone was by far the most difficult milestone, I had to build the robot, add two modifications: Potentiometers and the GUI(Graphical User Interface).
+Building the robot arm took almost 1.5 days for be to finish; it was quick and fast. Except for the occasional bolts and missing screws I'd have to find and put back together. When working, I checked to see if every motor was working and had a range of motion, so I could in replace the servo if something were to happen. This way it worked well and I wouldn't have to take apart any of the motors if there was an issue later on. Next I had to try with the first modification which was with the potentiometers. The Arduino Uno board had built in Potentiometers that I used to control the robot arm. Within the first try everything worked pretty well for me. The ptoentiometers could countrol how the arm was used. 
 
 
 [![Milestone2](https://res.cloudinary.com/marcomontalbano/image/upload/v1658288126/video_to_markdown/images/youtube--fhSxhba6n40-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=fhSxhba6n40 "Milestone2")
