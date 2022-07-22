@@ -22,7 +22,7 @@ Here is the project with the various modifications!
 
 # Presentation 
 
-<iframe src="https://docs.google.com/presentation/d/1Wu_QMWxbmq1zyIeIQiD9PSXRalewoSfQCcgnMu9R12s/edit#slide=id.p" frameborder="0" width="780" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/1Wu_QMWxbmq1zyIeIQiD9PSXRalewoSfQCcgnMu9R12s/edit#slide=id.p" frameborder="0" width="650" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 
 # Project Demo
@@ -36,7 +36,7 @@ My final milestone was to try connecting the Arm through the java app; Processin
 
 # Second Milestone
 My second milestone was by far the most difficult milestone, I had to build the robot, add two modifications: Potentiometers and the GUI(Graphical User Interface).
-Building the robot arm took almost 1.5 days for be to finish; it was quick and fast. Except for the occasional bolts and missing screws I'd have to find and put back together. When working, I checked to see if every motor was working and had a range of motion, so I could in replace the servo if something were to happen. This way it worked well and I wouldn't have to take apart any of the motors if there was an issue later on. Next I had to try with the first modification which was with the potentiometers. The Arduino Uno board had built in Potentiometers that I used to control the robot arm. Within the first try everything worked pretty well for me. The potentiometers could control how the arm was used. The Servo Motor two had some issue because it had to uphold the entire weight of the arm; it would move but not to the full possible extension. I uploaded code from the Arduino IDE program to the board and checked to see if all my ports were place correctly. It worked pretty well. Next I did the 
+Building the robot arm took almost 1.5 days for be to finish; it was quick and fast. Except for the occasional bolts and missing screws I'd have to find and put back together. When working, I checked to see if every motor was working and had a range of motion, so I could in replace the servo if something were to happen. This way it worked well and I wouldn't have to take apart any of the motors if there was an issue later on. Next I had to try with the first modification which was with the potentiometers. The Arduino Uno board had built in Potentiometers that I used to control the robot arm. Within the first try everything worked pretty well for me. The potentiometers could control how the arm was used. The Servo Motor two had some issue because it had to uphold the entire weight of the arm; it would move but not to the full possible extension. I uploaded code from the Arduino IDE program to the board and checked to see if all my ports were place correctly. It worked pretty well. Next I did the GUI
 
 
 [![Milestone2](https://res.cloudinary.com/marcomontalbano/image/upload/v1658288126/video_to_markdown/images/youtube--fhSxhba6n40-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=fhSxhba6n40 "Milestone2")
