@@ -43,7 +43,7 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 My first milestone was being able to connect a servo motor and control it through an APK app on my device. At first this was a tad bit difficult as I had not previously used Android devices; it was a different medium for me. I was able to use an Andorid tablet to process and dowload this app. Utilizing the HC-05 Bluetooth module, I was able to connect the servo motor through bluetooth, meaning that I could control the servo motor wirelessly. I first connected and fastened the wires to the breadboard and the arduino board. the arduino board was attached to my latop via a cable. This allowed the transfer of power originally from my laptop to my arudino board. (It was a main source of power).
 
 <p align="center">
-<iframe width="100" height="500" src="https://www.youtube.com/embed/k01HggSPF2M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="600" height="500" src="https://www.youtube.com/embed/k01HggSPF2M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
 # Bill Of Materials
@@ -75,12 +75,18 @@ My first milestone was being able to connect a servo motor and control it throug
 </p>
  
 <p align="center">
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/Q83bs3n/image.png" alt="image" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>host pic</a><br />
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/Q83bs3n/image.png" alt="image" border="0"></a><br />
 </p>
 
 <p align="center">
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/HV6Z756/image.png" alt="image" border="0"></a>
 </p>
+
+# Code
+Here is some of the code I used to control and change my modifications for my Robot Arm!
+
+
+
 
  # Blast From The Past: Time to Recreate The Project
   
