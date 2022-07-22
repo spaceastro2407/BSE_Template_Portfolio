@@ -4,8 +4,6 @@ In Iron Man 3, we see Avenger Tony Stark work with a robot arm to perform and cr
 <p align="center">
 <a href="https://ibb.co/zGdwbRW"><img src="https://i.ibb.co/Pwk84hs/IMG-4680-1.jpg" alt="IMG-4680-1" border="0"></a><br /><a target='_blank' href='https://emoticoncentral.com/category/dansu'>dansu smileys</a><br />
 
-<p align="center">
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/7S2KqwV/IMG-5739-removebg-preview.png" alt="IMG-5739-removebg-preview" border="0"></a>
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
@@ -14,9 +12,13 @@ In Iron Man 3, we see Avenger Tony Stark work with a robot arm to perform and cr
 # The Project
   Here is the project with the various modifications! 
   
+<p align="center">
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/7S2KqwV/IMG-5739-removebg-preview.png" alt="IMG-5739-removebg-preview" border="0"></a>
   
-  Link To the Slideshow: https://docs.google.com/presentation/d/1Wu_QMWxbmq1zyIeIQiD9PSXRalewoSfQCcgnMu9R12s/edit?usp=sharing
+  For Demo night I prepared a presentation for the project. Link To the Slideshow: https://docs.google.com/presentation/d/1Wu_QMWxbmq1zyIeIQiD9PSXRalewoSfQCcgnMu9R12s/edit?usp=sharing
 
+  Here is the clip from Demo night to showcase and summarize my entire project.
+  
   
 # Final Milestone
 My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint. 
@@ -32,7 +34,6 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 
 My first milestone was being able to connect a servo motor and control it through an APK app on my device. At first this was a tad bit difficult as I had not previously used Android devices; it was a different medium for me. I was able to use an Andorid tablet to process and dowload this app. Utilizing the HC-05 Bluetooth module, I was able to connect the servo motor through bluetooth, meaning that I could control the servo motor wirelessly. I first connected and fastened the wires to the breadboard and the arduino board. the arduino board was attached to my latop via a cable. This allowed the transfer of power originally from my laptop to my arudino board. (It was a main source of power).
 
-<p align="center">
 [![Milestone1](https://res.cloudinary.com/marcomontalbano/image/upload/v1657482375/video_to_markdown/images/youtube--k01HggSPF2M-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=k01HggSPF2M&feature=youtu.be "Milestone1")
 
 
@@ -51,4 +52,16 @@ My first milestone was being able to connect a servo motor and control it throug
 
 Schematics and Various Diagrams
 | Here are several diagrams and Schematics that were used in my website|
-
+#Final Milestone: An Schematic To Connect To The Bluetooth Module.
+<p align="center">
+<a href="https://ibb.co/TBL0VsP"><img src="https://i.ibb.co/GvTMKqC/image.png" alt="image" border="0"></a>
+# The Diagram For Milestone 1
+  <p align="center">
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/P5ZGJrr/image.png" alt="image" border="0"></a>
+# Getting Used to Arduino: Potentiometer, and LED(s)
+<p align="center">
+  <a href="https://imgbb.com/"><img src="https://i.ibb.co/sv2k97M/image.png" alt="image" border="0"></a>
+<p align="center">
+ <a href="https://imgbb.com/"><img src="https://i.ibb.co/Q83bs3n/image.png" alt="image" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>host pic</a><br />
+<p align="center">
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/HV6Z756/image.png" alt="image" border="0"></a>
