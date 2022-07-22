@@ -9,7 +9,7 @@ In Iron Man 3, we see Avenger Tony Stark work with a robot arm to perform and cr
 | Hello, I'm Meghana, and here is my portfolio, of my project I created in 3 weeks. After a lot of time, occasional tears, and effort, I've been able to create an amazing website and demo. Please Enjoy!|
 
 <p align="center">
-<a href="https://ibb.co/zGdwbRW"><img src="https://i.ibb.co/Pwk84hs/IMG-4680-1.jpg" alt="IMG-4680-1" border="0"></a><br /><a target='_blank' href='https://emoticoncentral.com/category/dansu'>dansu smileys</a><br />
+<a href="https://ibb.co/zGdwbRW"><img src="https://i.ibb.co/Pwk84hs/IMG-4680-1.jpg" alt="IMG-4680-1" border="0"></a><br />
 
 # The Project
   Here is the project with the various modifications! 
