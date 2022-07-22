@@ -84,6 +84,7 @@ My first milestone was being able to connect a servo motor and control it throug
 
 # Code
 Here is some of the code I used to control and change my modifications for my Robot Arm!
+```
 #include <Servo.h>
 int servopin1 = 9;    //Define servo interface digital interface 9
 int servopin2 = 6;    //Define servo interface digital interface 6
@@ -216,8 +217,10 @@ void loop() {
   while(Serial.available()>0);
 
 }
-
+```
 Here's some code for the Potentiometer Modification!
+
+```
 #include <Servo.h>
 Servo servo1;//create servo object to control a servo
 Servo servo2;//create servo object to control a servo
@@ -315,6 +318,6 @@ void loop()
   dataServo5 = val5;
   delay(50);//wait for 0.05second
 }
-
+```
 # Blast From The Past: Time to Recreate The Project
   
