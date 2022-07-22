@@ -1,5 +1,9 @@
 ﻿# Phone Controlled Robot Arm
-In Iron Man 3, we see Avenger Tony Stark work with a robot arm to perform and create new pieces of the Ironman suit. Although it may not be as advanced as Ironman's arm, the Phone Controlled Robot Arm is unique in it's own way. Through combining various apsects of mechanical,software, and electrical engineering the user can control the arm through three different modifications which include Potentiometer(s), a GUI, and Processing.
+In Iron Man 3, we see Avenger Tony Stark work with a robot arm to perform and create new pieces of the Ironman suit. Although it may not be as advanced as Ironman's arm, the Phone Controlled Robot Arm is unique in it's own way. Through combining various apsects of mechanical,software, and electrical engineering the user can control the arm through three different modifications which include Potentiometer(s), a GUI, and Processing. 
+
+# A Bit About The Creator
+
+| Hello, I'm Meghana, and here is my portfolio, of my project I created in 3 weeks. After a lot of time, occasional tears, and effort, I've been able to create an amazing website and demo. Please Enjoy!|
 
 <p align="center">
 <a href="https://ibb.co/zGdwbRW"><img src="https://i.ibb.co/Pwk84hs/IMG-4680-1.jpg" alt="IMG-4680-1" border="0"></a><br /><a target='_blank' href='https://emoticoncentral.com/category/dansu'>dansu smileys</a><br />
@@ -18,7 +22,7 @@ In Iron Man 3, we see Avenger Tony Stark work with a robot arm to perform and cr
   For Demo night I prepared a presentation for the project. Link To the Slideshow: https://docs.google.com/presentation/d/1Wu_QMWxbmq1zyIeIQiD9PSXRalewoSfQCcgnMu9R12s/edit?usp=sharing
 
   Here is the clip from Demo night to showcase and summarize my entire project.
-  
+ [![Demo](https://res.cloudinary.com/marcomontalbano/image/upload/v1658498822/video_to_markdown/images/youtube--3Tt4ewW0Ets-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/3Tt4ewW0Ets "Demo")
   
 # Final Milestone
 My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint. 
@@ -52,9 +56,9 @@ My first milestone was being able to connect a servo motor and control it throug
 
 # Schematics and Various Diagrams
   
-| Here are several diagrams and Schematics that were used in my website|
+| Here are several diagrams and Schematics that were used in to assist and create my project|
   
-#Final Milestone: An Schematic To Connect To The Bluetooth Module.
+# Final Milestone: An Schematic To Connect To The Bluetooth Module.
 <p align="center">
 <a href="https://ibb.co/TBL0VsP"><img src="https://i.ibb.co/GvTMKqC/image.png" alt="image" border="0"></a>
   
@@ -70,3 +74,6 @@ My first milestone was being able to connect a servo motor and control it throug
  <a href="https://imgbb.com/"><img src="https://i.ibb.co/Q83bs3n/image.png" alt="image" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>host pic</a><br />
 <p align="center">
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/HV6Z756/image.png" alt="image" border="0"></a>
+
+ # Blast From The Past: Time to Recreate The Project
+  
