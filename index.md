@@ -50,8 +50,10 @@ My first milestone was being able to connect a servo motor and control it throug
 
 
 
-Schematics and Various Diagrams
+#Schematics and Various Diagrams
+  
 | Here are several diagrams and Schematics that were used in my website|
+  
 #Final Milestone: An Schematic To Connect To The Bluetooth Module.
 <p align="center">
 <a href="https://ibb.co/TBL0VsP"><img src="https://i.ibb.co/GvTMKqC/image.png" alt="image" border="0"></a>
