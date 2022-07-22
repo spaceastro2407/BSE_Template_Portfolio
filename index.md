@@ -22,7 +22,7 @@ Here is the project with the various modifications!
 
 # Presentation 
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRMF0VVKQBIKy0huvKmaXRYxVNXuvIkCOeBDtsJGL9ejYe36T1vuj4rqDWR75e0IE93DaPmlMVOYtVH/embed?start=false&loop=true&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRMF0VVKQBIKy0huvKmaXRYxVNXuvIkCOeBDtsJGL9ejYe36T1vuj4rqDWR75e0IE93DaPmlMVOYtVH/embed?start=false&loop=true&delayms=3000" frameborder="0" width="500" height="400" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 
 # Project Demo
