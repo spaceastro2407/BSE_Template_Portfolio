@@ -20,9 +20,9 @@ Here is the project with the various modifications!
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/7S2KqwV/IMG-5739-removebg-preview.png" alt="IMG-5739-removebg-preview" border="0"></a>
 </p>
 
-# Presentation Link
- For Demo night I prepared a presentation for the project. Link To the Slideshow: 
- <iframe src=""https://docs.google.com/presentation/d/1Wu_QMWxbmq1zyIeIQiD9PSXRalewoSfQCcgnMu9R12s/edit?usp=sharing"" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+# Presentation 
+
+<iframe src="https://docs.google.com/presentation/d/1Wu_QMWxbmq1zyIeIQiD9PSXRalewoSfQCcgnMu9R12s/edit?usp=sharing" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 
 # Project Demo
@@ -30,7 +30,7 @@ Here is the project with the various modifications!
  [![Demo](https://res.cloudinary.com/marcomontalbano/image/upload/v1658498822/video_to_markdown/images/youtube--3Tt4ewW0Ets-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/3Tt4ewW0Ets "Demo")
   
 # Final Milestone
-My final milestone was to try connecting the Arm through the java app; Processing. I downlaoded Processing and was able to open the software properly on my laptop, it worked very well and I could see the interface. I did not have as much trouble as I did with the GUI interface. I was able to upload the code, but certain errors kept popping up. I had to reconnect my ports several times in order for it to work properly. 
+My final milestone was to try connecting the Arm through the java app; Processing. I downlaoded Processing and was able to open the software properly on my laptop, it worked very well and I could see the interface. I did not have as much trouble as I did with the GUI interface. I was able to upload the code, but certain errors kept popping up. I had to reconnect my ports several times in order for it to work properly. There was also some occasional lag with the arm and the itnerface, possibly due to hardware issues or wifi. I decided to play around with the Processing part.
 
 [![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1658442585/video_to_markdown/images/youtube--dyGJrXaJGBc-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=dyGJrXaJGBc&feature=youtu.be "Final Milestone")
 
@@ -46,7 +46,7 @@ Building the robot arm took almost 1.5 days for be to finish; it was quick and f
 My first milestone was being able to connect a servo motor and control it through an APK app on my device. At first this was a tad bit difficult as I had not previously used Android devices; it was a different medium for me. I was able to use an Andorid tablet to process and dowload this app. Utilizing the HC-05 Bluetooth module, I was able to connect the servo motor through bluetooth, meaning that I could control the servo motor wirelessly. I first connected and fastened the wires to the breadboard and the arduino board. the arduino board was attached to my latop via a cable. This allowed the transfer of power originally from my laptop to my arudino board. (It was a main source of power). By using the APK I was able to control my servo motor and allow to undergo a rotation of about 180 degrees. What I tended to notice towards the end was that, the robot arm could only handle moving to a certain number of degrees withint the 180. It would occasionally move from 45-80 , or 35-80. So I had to put together the entire component for it to work again. But in the end it worked well.
 
 <p align="center">
-<iframe width="1000" height="800" src="https://www.youtube.com/embed/k01HggSPF2M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="380" height="450" src="https://www.youtube.com/embed/k01HggSPF2M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
 # Bill Of Materials
