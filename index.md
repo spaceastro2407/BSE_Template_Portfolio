@@ -50,7 +50,7 @@ My first milestone was being able to connect a servo motor and control it throug
 
 
 
-#Schematics and Various Diagrams
+# Schematics and Various Diagrams
   
 | Here are several diagrams and Schematics that were used in my website|
   
