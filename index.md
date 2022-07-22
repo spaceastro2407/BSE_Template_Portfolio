@@ -1,17 +1,15 @@
 ﻿# Phone Controlled Robot Arm
 In Iron Man 3, we see Avenger Tony Stark work with a robot arm to perform and create new pieces of the Ironman suit. Although it may not be as advanced as Ironman's arm, the Phone Controlled Robot Arm is unique in it's own way. Through combining various apsects of mechanical,software, and electrical engineering the user can control the arm through three different modifications which include Potentiometer(s), a GUI, and Processing. 
 
-# A Bit About The Creator
+| **Engineer** | **School** | **Area of Interest** | **Grade** |
+|:--:|:--:|:--:|:--:|
+| Meghana K. | Amador Valley HighSchool | Mechanical, Computer Science, and Aerospace Engineering | Incoming Junior
+
 
 | Hello, I'm Meghana, and here is my portfolio, of my project I created in 3 weeks. After a lot of time, occasional tears, and effort, I've been able to create an amazing website and demo. Please Enjoy!|
 
 <p align="center">
 <a href="https://ibb.co/zGdwbRW"><img src="https://i.ibb.co/Pwk84hs/IMG-4680-1.jpg" alt="IMG-4680-1" border="0"></a><br /><a target='_blank' href='https://emoticoncentral.com/category/dansu'>dansu smileys</a><br />
-
-
-| **Engineer** | **School** | **Area of Interest** | **Grade** |
-|:--:|:--:|:--:|:--:|
-| Meghana K. | Amador Valley HighSchool | Mechanical, Computer Science, and Aerospace Engineering | Incoming Junior
 
 # The Project
   Here is the project with the various modifications! 
