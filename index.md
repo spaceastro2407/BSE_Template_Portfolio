@@ -55,12 +55,15 @@ Schematics and Various Diagrams
 #Final Milestone: An Schematic To Connect To The Bluetooth Module.
 <p align="center">
 <a href="https://ibb.co/TBL0VsP"><img src="https://i.ibb.co/GvTMKqC/image.png" alt="image" border="0"></a>
+  
 # The Diagram For Milestone 1
   <p align="center">
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/P5ZGJrr/image.png" alt="image" border="0"></a>
+    
 # Getting Used to Arduino: Potentiometer, and LED(s)
 <p align="center">
   <a href="https://imgbb.com/"><img src="https://i.ibb.co/sv2k97M/image.png" alt="image" border="0"></a>
+  
 <p align="center">
  <a href="https://imgbb.com/"><img src="https://i.ibb.co/Q83bs3n/image.png" alt="image" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>host pic</a><br />
 <p align="center">
