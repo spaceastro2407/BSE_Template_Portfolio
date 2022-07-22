@@ -1,11 +1,21 @@
 ﻿# Phone Controlled Robot Arm
-This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
+In Iron Man 3, we see Avenger Tony Stark work with a robot arm to perform and create new pieces of the Ironman suit. Although it may not be as advanced as Ironman's arm, the Phone Controlled Robot Arm is unique in it's own way. Through combining various apsects of mechanical,software, and electrical engineering the user can control the arm through three different modifications which include Potentiometer(s), a GUI, and Processing.
+
+<p align="center">
+<a href="https://ibb.co/zGdwbRW"><img src="https://i.ibb.co/Pwk84hs/IMG-4680-1.jpg" alt="IMG-4680-1" border="0"></a><br /><a target='_blank' href='https://emoticoncentral.com/category/dansu'>dansu smileys</a><br />
+
+<p align="center">
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/7S2KqwV/IMG-5739-removebg-preview.png" alt="IMG-5739-removebg-preview" border="0"></a>
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
 | Meghana K. | Amador Valley HighSchool | Mechanical, Computer Science, and Aerospace Engineering | Incoming Junior
 
-![Headstone Image](https://github.com/BlueStampEng/BSE_Template_Portfolio/blob/4655d8c4b2f1d0fa5912511d0b39542520b9f88e/branding/BlueStamp-Engineering-Logo-White.png)
+# The Project
+  Here is the project with the various modifications! 
+  
+  
+  Link To the Slideshow: https://docs.google.com/presentation/d/1Wu_QMWxbmq1zyIeIQiD9PSXRalewoSfQCcgnMu9R12s/edit?usp=sharing
 
   
 # Final Milestone
@@ -20,8 +30,9 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 # First Milestone
   
 
-My first milestone was setting up and hooking up the Raspberry Pi and all the necessary components onto my tv. The heatsinks, the sd card, and the controller were all added to ensure that the Raspberry Pi was working. Instead of the Raspberry Pi Os software, I had to first download a different software called Retro Pie. With Retro Pie, I needed to download an Imager for Raspberry Pi. Raspberry Pi Imager automatically downloads a list of the latest versions of Raspbian supported by the Raspberry Pi. Raspbian is the typical Raspberry Pi Os software, the one I needed on the Raspberry Pi was Retro Pi. With the included SD card, I plugged in the SD into my computer and launched the Imager. The imager allowed me to set the Operating System to Retro Pi instead of Raspbian onto the SD card. With the OS imaged onto the SD, I plugged the SD card back into the Raspberry Pi and rebooted the system and Retro Bi booted up.
+My first milestone was being able to connect a servo motor and control it through an APK app on my device. At first this was a tad bit difficult as I had not previously used Android devices; it was a different medium for me. I was able to use an Andorid tablet to process and dowload this app. Utilizing the HC-05 Bluetooth module, I was able to connect the servo motor through bluetooth, meaning that I could control the servo motor wirelessly. I first connected and fastened the wires to the breadboard and the arduino board. the arduino board was attached to my latop via a cable. This allowed the transfer of power originally from my laptop to my arudino board. (It was a main source of power).
 
+<p align="center">
 [![Milestone1](https://res.cloudinary.com/marcomontalbano/image/upload/v1657482375/video_to_markdown/images/youtube--k01HggSPF2M-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=k01HggSPF2M&feature=youtu.be "Milestone1")
 
 
@@ -35,3 +46,9 @@ My first milestone was setting up and hooking up the Raspberry Pi and all the ne
 | Jumper Wires  | 6 | 10¢/wire  |  https://www.amazon.com/Breadboard-Jumper-Wire-75pcs-pack/dp/B0040DEI9M |
 | Arduino Uno Board  | 1  | $27.60  | https://store-usa.arduino.cc/products/arduino-uno-rev3?selectedStore=us  |
 | Arduino IDE  | 1  | $0  | https://www.arduino.cc/en/software/ |
+
+
+
+Schematics and Various Diagrams
+| Here are several diagrams and Schematics that were used in my website|
+
