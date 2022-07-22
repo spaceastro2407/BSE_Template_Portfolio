@@ -24,7 +24,6 @@ Here is the project with the various modifications!
  For Demo night I prepared a presentation for the project. Link To the Slideshow: 
  <iframe src=""https://docs.google.com/presentation/d/1Wu_QMWxbmq1zyIeIQiD9PSXRalewoSfQCcgnMu9R12s/edit?usp=sharing"" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
- <a href="https://docs.google.com/presentation/d/1Wu_QMWxbmq1zyIeIQiD9PSXRalewoSfQCcgnMu9R12s/edit?usp=sharing">SLIDES</a>
 
 # Project Demo
  Here is the clip from Demo night to showcase and summarize my entire project.
@@ -36,13 +35,14 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 [![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1658442585/video_to_markdown/images/youtube--dyGJrXaJGBc-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=dyGJrXaJGBc&feature=youtu.be "Final Milestone")
 
 # Second Milestone
-My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint.
+My second milestone was by far the most difficult milestone, I had to build the robot, add two modifications: Potentiometers and the GUI(Graphical User Interface).
+
 
 [![Milestone2](https://res.cloudinary.com/marcomontalbano/image/upload/v1658288126/video_to_markdown/images/youtube--fhSxhba6n40-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=fhSxhba6n40 "Milestone2")
 
 # First Milestone
   
-My first milestone was being able to connect a servo motor and control it through an APK app on my device. At first this was a tad bit difficult as I had not previously used Android devices; it was a different medium for me. I was able to use an Andorid tablet to process and dowload this app. Utilizing the HC-05 Bluetooth module, I was able to connect the servo motor through bluetooth, meaning that I could control the servo motor wirelessly. I first connected and fastened the wires to the breadboard and the arduino board. the arduino board was attached to my latop via a cable. This allowed the transfer of power originally from my laptop to my arudino board. (It was a main source of power). By using the APk I was able to control my servo motor and allow to undergo a rotation of about 180 degrees. What I tended to notice towards the end was that, the robot arm coul donly hadnle moving to a certain number of degrees withint the 180. It would occasionally move from 45-80 , or 35-80. So i had to put together the entire component for it to work.
+My first milestone was being able to connect a servo motor and control it through an APK app on my device. At first this was a tad bit difficult as I had not previously used Android devices; it was a different medium for me. I was able to use an Andorid tablet to process and dowload this app. Utilizing the HC-05 Bluetooth module, I was able to connect the servo motor through bluetooth, meaning that I could control the servo motor wirelessly. I first connected and fastened the wires to the breadboard and the arduino board. the arduino board was attached to my latop via a cable. This allowed the transfer of power originally from my laptop to my arudino board. (It was a main source of power). By using the APK I was able to control my servo motor and allow to undergo a rotation of about 180 degrees. What I tended to notice towards the end was that, the robot arm could only handle moving to a certain number of degrees withint the 180. It would occasionally move from 45-80 , or 35-80. So I had to put together the entire component for it to work again. 
 
 <p align="center">
 <iframe width="1000" height="800" src="https://www.youtube.com/embed/k01HggSPF2M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
