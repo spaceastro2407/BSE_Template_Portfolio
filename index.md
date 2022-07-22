@@ -22,6 +22,8 @@ Here is the project with the various modifications!
 
 # Presentation Link
  For Demo night I prepared a presentation for the project. Link To the Slideshow: 
+ <iframe src=""https://docs.google.com/presentation/d/1Wu_QMWxbmq1zyIeIQiD9PSXRalewoSfQCcgnMu9R12s/edit?usp=sharing"" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
  <a href="https://docs.google.com/presentation/d/1Wu_QMWxbmq1zyIeIQiD9PSXRalewoSfQCcgnMu9R12s/edit?usp=sharing">SLIDES</a>
 
 # Project Demo
@@ -40,7 +42,7 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 
 # First Milestone
   
-My first milestone was being able to connect a servo motor and control it through an APK app on my device. At first this was a tad bit difficult as I had not previously used Android devices; it was a different medium for me. I was able to use an Andorid tablet to process and dowload this app. Utilizing the HC-05 Bluetooth module, I was able to connect the servo motor through bluetooth, meaning that I could control the servo motor wirelessly. I first connected and fastened the wires to the breadboard and the arduino board. the arduino board was attached to my latop via a cable. This allowed the transfer of power originally from my laptop to my arudino board. (It was a main source of power).
+My first milestone was being able to connect a servo motor and control it through an APK app on my device. At first this was a tad bit difficult as I had not previously used Android devices; it was a different medium for me. I was able to use an Andorid tablet to process and dowload this app. Utilizing the HC-05 Bluetooth module, I was able to connect the servo motor through bluetooth, meaning that I could control the servo motor wirelessly. I first connected and fastened the wires to the breadboard and the arduino board. the arduino board was attached to my latop via a cable. This allowed the transfer of power originally from my laptop to my arudino board. (It was a main source of power). By using the APk I was able to control my servo motor and allow to undergo a rotation of about 180 degrees. What I tended to notice towards the end was that, the robot arm coul donly hadnle moving to a certain number of degrees withint the 180. It would occasionally move from 45-80 , or 35-80. So i had to put together the entire component for it to work.
 
 <p align="center">
 <iframe width="1000" height="800" src="https://www.youtube.com/embed/k01HggSPF2M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -323,3 +325,4 @@ void loop()
 When recreating the project, know that it is not too difficult of a task, but neither is it too easy. Grab a screwdriver or two, and have a positive and open mindset througout the building process to have the most success. Not to mention have fun! If you face issues regarding servo motors, take apart the corresponding servo motor from the diagram and replace or attempt to screw it back together. Keep a pair of pliers or wrenches to help you fix the pesky screws and bolts. Do not use pressure or handle the robot arm with roughness. The components may definitely break! Do not apply too much pressure. If your program is not working either restart the laptop or computer you are using, or re-upload the code. Be careful at all time and have fun again!
 # Caution
 If you sense something is wrong or a certain acid is leaking from any components immediately stop what you are doing and wear protective wear. Dispose of the component and clean the surface area properly. If a servo motor starts to heaten up, take not carefully. Please turn of the power or pwoer source (in this case it will most likely be your laptop), unplug the cable, and let the motor reach back down to temperature. Certain times you may feel a burning heat on the motor, this is a sign to stop overexerting teh otor. Overexertion could be caused by the weight of the robot and the tendency of the motor to only hadle little pressure and weight. If you start to smell smoke, turn of the robot, open a window in the room, and leave. DO NOT inhale the smoke under any circumstance!
+#Thanks for reading! Happy Building~!
